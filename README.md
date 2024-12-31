@@ -12,4 +12,5 @@ index
   wip wg
   all of previous
   new audio for chertcoin
-   
+
+to install any version just input folder into the mods folder in binding of isaac
